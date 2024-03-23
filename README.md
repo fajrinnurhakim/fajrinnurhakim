@@ -11,4 +11,6 @@ Combining expertise in developing captivating user interfaces with a keen attent
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=fajrinnurhakim&theme=react&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fajrinnurhakim&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fajrinnurhakim&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">![](https://github-readme-stats.vercel.app/api/top-langs/?username=fajrinnurhakim&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</p>
+
